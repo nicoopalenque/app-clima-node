@@ -1,8 +1,6 @@
 # app-clima-node
 Aplicacion de consola para consulta del clima
 
-# Install
+# Install and Run
 ``` $ npm install
-
-# Run
-``` $npm start
+    $ npm start
